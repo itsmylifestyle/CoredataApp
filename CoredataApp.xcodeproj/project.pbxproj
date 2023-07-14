@@ -14,6 +14,7 @@
 		A7501A562A614FB80043D133 /* CoredataApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A7501A542A614FB80043D133 /* CoredataApp.xcdatamodeld */; };
 		A7501A582A614FB90043D133 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7501A572A614FB90043D133 /* Assets.xcassets */; };
 		A7501A5B2A614FB90043D133 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7501A592A614FB90043D133 /* LaunchScreen.storyboard */; };
+		A7501A632A6152490043D133 /* ViewControllerSubClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7501A622A6152490043D133 /* ViewControllerSubClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A7501A572A614FB90043D133 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7501A5A2A614FB90043D133 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7501A5C2A614FB90043D133 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7501A622A6152490043D133 /* ViewControllerSubClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSubClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A7501A4B2A614FB80043D133 /* AppDelegate.swift */,
 				A7501A4D2A614FB80043D133 /* SceneDelegate.swift */,
 				A7501A4F2A614FB80043D133 /* ViewController.swift */,
+				A7501A622A6152490043D133 /* ViewControllerSubClass.swift */,
 				A7501A512A614FB80043D133 /* Main.storyboard */,
 				A7501A572A614FB90043D133 /* Assets.xcassets */,
 				A7501A592A614FB90043D133 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7501A562A614FB80043D133 /* CoredataApp.xcdatamodeld in Sources */,
+				A7501A632A6152490043D133 /* ViewControllerSubClass.swift in Sources */,
 				A7501A502A614FB80043D133 /* ViewController.swift in Sources */,
 				A7501A4C2A614FB80043D133 /* AppDelegate.swift in Sources */,
 				A7501A4E2A614FB80043D133 /* SceneDelegate.swift in Sources */,
